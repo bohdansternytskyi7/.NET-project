@@ -1,0 +1,7 @@
+C:\Users\bohdan.sternytskyi\source\repos\Warehouse\Warehouse\obj\Debug\net6.0\Warehouse.csproj.AssemblyReference.cache
+C:\Users\bohdan.sternytskyi\source\repos\Warehouse\Warehouse\obj\Debug\net6.0\Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bohdan.sternytskyi\source\repos\Warehouse\Warehouse\obj\Debug\net6.0\Warehouse.AssemblyInfoInputs.cache
+C:\Users\bohdan.sternytskyi\source\repos\Warehouse\Warehouse\obj\Debug\net6.0\Warehouse.AssemblyInfo.cs
+C:\Users\bohdan.sternytskyi\source\repos\Warehouse\Warehouse\obj\Debug\net6.0\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\bohdan.sternytskyi\source\repos\Warehouse\Warehouse\obj\Debug\net6.0\Warehouse.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bohdan.sternytskyi\source\repos\Warehouse\Warehouse\obj\Debug\net6.0\Warehouse.MvcApplicationPartsAssemblyInfo.cache
